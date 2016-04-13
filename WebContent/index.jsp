@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>Hello world : Aken</h1>
-	<p><a href="page2.jsp">page2</a></p>
+	<p>test SSH</p>
 </body>
 </html>
